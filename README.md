@@ -1,2 +1,2 @@
-Ein kleines Spiel von den Froscon-Froglabs aus 2013
+Ein kleines Spiel aus den Froscon-Froglabs aus 2013
 =====
